@@ -2,7 +2,7 @@ import Link from 'next/link'
 import {getTranslations} from 'next-intl/server'
 import {getPosts, urlFor} from '@/lib/sanity'
 
-export const dynamic = 'force-dynamic' // ISR: atualiza a cada 60s
+export const dynamic = 'force-dynamic'
 
 export default async function BlogPage({
   params,
@@ -13,7 +13,7 @@ export default async function BlogPage({
   const t = await getTranslations('blog')
   const posts = await getPosts()
   const isEn = locale === 'en'
-  const base = isEn ? '/en' : ''
+  const base = `/${locale}`
 
   return (
     <main className="blog-section">
@@ -45,7 +45,7 @@ export default async function BlogPage({
             )
           })}
           {posts.length === 0 && (
-            <p style={{color: 'var(--text-dim)'}}>
+            <p style={{color: 'var(--cinza-medio)'}}>
               {isEn ? 'No posts yet.' : 'Nenhum post ainda. Publique pelo painel /studio.'}
             </p>
           )}
