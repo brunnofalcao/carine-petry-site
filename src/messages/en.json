@@ -1,0 +1,78 @@
+{
+  "nav": { "home": "Home", "clinica": "Clinical", "mentorias": "Mentorships", "blog": "Insights", "palestras": "Speaking", "contato": "Contact" },
+  "hero": {
+    "eyebrow": "High-Complexity Clinical Investigation",
+    "title_1": "Clinical investigation for cases",
+    "title_em": "other doctors couldn't solve",
+    "sub": "Depth before answers. Detailed consultations, in-depth history-taking and evidence-based guidance — specialized in MCAS, EDS and Long Covid.",
+    "credentials": "Dr. Carine Petry · CRM-DF 15342 · RQE 16243",
+    "cta_consulta": "Book a consultation",
+    "cta_mentoria": "Explore mentorships"
+  },
+  "pillars": {
+    "eyebrow": "Three areas of practice",
+    "title": "One physician. Three ways to transform medicine.",
+    "clinica_title": "Clinical Care",
+    "clinica_desc": "Investigative care for complex, underdiagnosed cases. Long consultations, symptom correlation, root-cause focus.",
+    "mentoria_title": "Mentorships & Courses",
+    "mentoria_desc": "Training for physicians pursuing excellence in advanced clinical reasoning. Real cases, validated protocols, technical depth.",
+    "palestra_title": "Speaking",
+    "palestra_desc": "High-caliber content for conferences, scientific events and institutions. Authority on rare conditions and investigative medicine.",
+    "link": "Learn more"
+  },
+  "expertise": {
+    "eyebrow": "Areas of expertise",
+    "title": "Rare conditions that 99% of doctors don't investigate",
+    "desc": "Specialization in complex, underdiagnosed and multisystemic diagnoses."
+  },
+  "manifesto": {
+    "text": "You are not \"making it up\". It's not anxiety. It's not all in your head. Your symptoms are real — and they deserve real investigation.",
+    "attr": "Dr. Carine Petry"
+  },
+  "blog": {
+    "title": "Insights",
+    "subtitle": "Clinical investigation, rare conditions and diagnostic reasoning.",
+    "readMore": "Read article",
+    "backToBlog": "Back to insights"
+  },
+  "clinica": {
+    "eyebrow": "Clinical care",
+    "title": "When diagnosis takes more than 15 minutes",
+    "intro": "Thorough clinical investigation for patients who have seen many doctors without answers. Here, you are heard — and you leave with clear direction.",
+    "h2_method": "How the investigation works",
+    "method": "Investigative medicine is not just ordering tests. It is correlating seemingly unrelated symptoms, recognizing patterns others miss, and having the courage to consider rare diagnoses.",
+    "h2_who": "Who it's for",
+    "who": "Patients with persistent symptoms, \"normal\" test results and the feeling of not being taken seriously. Especially the conditions below:",
+    "cta": "Book a consultation"
+  },
+  "mentorias": {
+    "eyebrow": "For physicians",
+    "title": "Elevate your clinical practice beyond standard protocol",
+    "intro": "High-complexity clinical investigation requires more than protocol — it requires refined differential reasoning. Training programs for physicians seeking real depth.",
+    "h2_what": "What you develop",
+    "what": "A systemic view of MCAS, EDS and rare syndromes, with real cases, in-depth discussion and validated protocols.",
+    "h2_format": "Format",
+    "format": "Mentorships and courses with selection by credentials. Limited seats, technical content with no oversimplification.",
+    "cta": "I want to join"
+  },
+  "palestras": {
+    "eyebrow": "Speaking & Events",
+    "title": "Authority in investigative medicine for your event",
+    "intro": "High intellectual-caliber content for conferences, scientific events, medical societies and healthcare institutions.",
+    "h2_themes": "Topics",
+    "themes": "High-complexity clinical investigation, rare and underdiagnosed conditions (MCAS, EDS, Long Covid), differential diagnostic reasoning and the importance of listening in medicine.",
+    "cta": "Invite to speak"
+  },
+  "cta_band": {
+    "title": "Depth before answers",
+    "desc": "Whether you're a patient seeking answers, a physician seeking excellence, or an institution seeking authority — there is a path here.",
+    "btn": "Get in touch"
+  },
+  "footer": {
+    "tagline": "High-Complexity Clinical Investigation",
+    "nav_title": "Navigation",
+    "contact_title": "Contact",
+    "rights": "All rights reserved.",
+    "address": "Centro Médico Lúcio Costa · Brasília-DF"
+  }
+}

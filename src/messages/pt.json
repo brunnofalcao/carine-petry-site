@@ -1,0 +1,78 @@
+{
+  "nav": { "home": "Início", "clinica": "Clínica", "mentorias": "Mentorias", "blog": "Conteúdo", "palestras": "Palestras", "contato": "Contato" },
+  "hero": {
+    "eyebrow": "Investigação Clínica de Alta Complexidade",
+    "title_1": "Investigação clínica para casos que",
+    "title_em": "outros médicos não resolveram",
+    "sub": "Profundidade antes de resposta. Consultas detalhadas, anamnese aprofundada e orientação fundamentada em evidência — especializada em SAM, SED e Covid Longa.",
+    "credentials": "Dra. Carine Petry · CRM-DF 15342 · RQE 16243",
+    "cta_consulta": "Agendar consulta",
+    "cta_mentoria": "Conhecer mentorias"
+  },
+  "pillars": {
+    "eyebrow": "Três frentes de atuação",
+    "title": "Uma médica. Três formas de transformar a medicina.",
+    "clinica_title": "Clínica",
+    "clinica_desc": "Atendimento investigativo para casos complexos e subdiagnosticados. Consultas longas, correlação de sintomas, busca pela causa raiz.",
+    "mentoria_title": "Mentorias & Cursos",
+    "mentoria_desc": "Formação para médicos que buscam excelência em raciocínio clínico avançado. Casos reais, protocolos validados, profundidade técnica.",
+    "palestra_title": "Palestrante",
+    "palestra_desc": "Conteúdo de alto padrão para congressos, eventos científicos e instituições. Autoridade em condições raras e medicina investigativa.",
+    "link": "Saiba mais"
+  },
+  "expertise": {
+    "eyebrow": "Áreas de expertise",
+    "title": "Condições raras que 99% dos médicos não investigam",
+    "desc": "Especialização em diagnósticos complexos, subdiagnosticados e multissistêmicos."
+  },
+  "manifesto": {
+    "text": "Você não é \"frescura\". Não é ansiedade. Não é coisa da sua cabeça. Seus sintomas são reais — e merecem investigação real.",
+    "attr": "Dra. Carine Petry"
+  },
+  "blog": {
+    "title": "Conteúdo",
+    "subtitle": "Investigação clínica, condições raras e raciocínio diagnóstico.",
+    "readMore": "Ler artigo",
+    "backToBlog": "Voltar ao conteúdo"
+  },
+  "clinica": {
+    "eyebrow": "Atendimento clínico",
+    "title": "Quando o diagnóstico exige mais do que 15 minutos",
+    "intro": "Investigação clínica minuciosa para pacientes que já passaram por vários médicos sem resposta. Aqui, você é ouvido — e sai com direcionamento claro.",
+    "h2_method": "Como funciona a investigação",
+    "method": "Medicina investigativa não é apenas pedir exames. É correlacionar sintomas aparentemente desconexos, reconhecer padrões que outros não veem e ter coragem para considerar diagnósticos raros.",
+    "h2_who": "Para quem é",
+    "who": "Pacientes com sintomas persistentes, exames \"normais\" e a sensação de não terem sido levados a sério. Especialmente nas condições abaixo:",
+    "cta": "Agendar consulta"
+  },
+  "mentorias": {
+    "eyebrow": "Para médicos",
+    "title": "Eleve sua prática clínica além do protocolo padrão",
+    "intro": "Investigação clínica de alta complexidade exige mais que protocolo — exige raciocínio diferencial refinado. Programas de formação para médicos que buscam profundidade real.",
+    "h2_what": "O que você desenvolve",
+    "what": "Olhar sistêmico para SAM, SED e síndromes raras, com casos reais, discussões aprofundadas e protocolos validados.",
+    "h2_format": "Formato",
+    "format": "Mentorias e cursos com seleção por currículo. Vagas limitadas, conteúdo técnico e sem simplificação.",
+    "cta": "Quero participar"
+  },
+  "palestras": {
+    "eyebrow": "Palestras & Eventos",
+    "title": "Autoridade em medicina investigativa para o seu evento",
+    "intro": "Conteúdo de alto padrão intelectual para congressos, eventos científicos, sociedades médicas e instituições de saúde.",
+    "h2_themes": "Temas",
+    "themes": "Investigação clínica de alta complexidade, condições raras e subdiagnosticadas (SAM, SED, Covid Longa), raciocínio diagnóstico diferencial e a importância da escuta na medicina.",
+    "cta": "Convidar para palestrar"
+  },
+  "cta_band": {
+    "title": "Profundidade antes de resposta",
+    "desc": "Seja paciente em busca de respostas, médico em busca de excelência ou instituição em busca de autoridade — há um caminho aqui.",
+    "btn": "Entrar em contato"
+  },
+  "footer": {
+    "tagline": "Investigação Clínica de Alta Complexidade",
+    "nav_title": "Navegação",
+    "contact_title": "Contato",
+    "rights": "Todos os direitos reservados.",
+    "address": "Centro Médico Lúcio Costa · Brasília-DF"
+  }
+}
