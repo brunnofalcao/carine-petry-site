@@ -43,11 +43,10 @@ export default async function PostPage({
 
   const t = await getTranslations('blog')
   const isEn = locale === 'en'
-  const base = isEn ? '/en' : ''
+  const base = `/${locale}`
   const title = isEn && post.title_en ? post.title_en : post.title
   const body = isEn && post.body_en?.length ? post.body_en : post.body
 
-  // JSON-LD: Article + FAQ (impulsiona SEO e GEO)
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
