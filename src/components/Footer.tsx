@@ -7,7 +7,7 @@ export function Footer() {
   const t = useTranslations()
   const pathname = usePathname()
   const isEn = pathname.startsWith('/en')
-  const base = isEn ? '/en' : ''
+  const base = isEn ? '/en' : 'pt'
 
   return (
     <footer className="footer">
