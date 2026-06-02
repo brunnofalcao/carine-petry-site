@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import {getTranslations, setRequestLocale} from 'next-intl/server'
 import {locales} from '@/i18n'
 
@@ -10,7 +9,7 @@ export default async function Clinica({params}: {params: Promise<{locale: string
   const {locale} = await params
   setRequestLocale(locale)
   const t = await getTranslations()
-  const base = locale === 'en' ? '/en' : ''
+  const base = `/${locale}`
   return (
     <main>
       <section className="page-hero">
