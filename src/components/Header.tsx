@@ -8,15 +8,16 @@ const LOGO = 'https://res.cloudinary.com/dlzrfhwin/image/upload/v1775923045/logo
 export function Header({locale}: {locale: string}) {
   const t = useTranslations('nav')
   const pathname = usePathname()
-  const base = locale === 'en' ? '/en' : ''
 
-  const cleanPath = pathname.replace(/^\/en/, '') || '/'
-  const ptHref = cleanPath
-  const enHref = cleanPath === '/' ? '/en' : `/en${cleanPath}`
+  const base = `/${locale}`
+  const pathWithoutLocale = pathname.replace(/^\/(pt|en)/, '') || ''
+
+  const ptHref = `/pt${pathWithoutLocale}`
+  const enHref = `/en${pathWithoutLocale}`
 
   return (
     <header className="header">
-      <Link href={base || '/'}>
+      <Link href={base}>
         <img className="logo-img" src={LOGO} alt="Dra. Carine Petry" />
       </Link>
       <nav className="nav-links">
