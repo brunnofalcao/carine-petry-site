@@ -17,7 +17,7 @@ export default async function Home({
   const {locale} = await params
   setRequestLocale(locale)
   const t = await getTranslations()
-  const base = locale === 'en' ? '/en' : ''
+  const base = `/${locale}`
 
   return (
     <main>
